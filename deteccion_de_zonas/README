@@ -1,0 +1,9 @@
+¿Cómo usarlo?
+
+**Instala OpenCV:
+
+pip install opencv-python
+Ajustar la variable input_folder a la ruta de tu carpeta de imágenes.
+
+Ejecutar el script.
+

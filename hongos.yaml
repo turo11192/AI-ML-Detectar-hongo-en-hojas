@@ -1,0 +1,5 @@
+train: C:/Users/artur/OneDrive/Escritorio/Programacion/Python/detecta_signos/hongos/images/train
+val: C:/Users/artur/OneDrive/Escritorio/Programacion/Python/detecta_signos/hongos/images/val
+
+nc: 1
+names: ['hongo']
